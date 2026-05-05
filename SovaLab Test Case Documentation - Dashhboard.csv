@@ -1,0 +1,29 @@
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+CYCLE 1,,,,,,,,,,,,
+Required Exit Criteria:,,,Pass rate ≥ 90%,,,,,,,,,
+Functional Areas,"Total Planned
+(Initial scope)",Out of Scope,Total Test (Available for Execution),Executed,Not Executed,Pass,"%
+Pass",Fail,"%
+Fail","%
+Completed",% Pass Vs Exit Criteria (>=90),% Completed Vs Exit Critera (=100)
+TISSF,95,1,94,94,0,93,98.93617021,1,1.063829787,100,YES,YES
+NYSC,91,0,91,91,0,89,97.8021978,2,2.197802198,100,YES,YES
+GLAS,91,1,90,90,0,90,100,0,0,100,YES,YES
+SMEDAN,93,0,93,93,0,93,100,0,0,100,YES,YES
+Total,277,2,275,275,0,272,98.91278934,3,1.087210662,100,YES,YES
+,,,,,,,,,,,,
+Failure Severity ,,,,,,,,,,,,
+Functional Areas,Blocker,Critical,Major,Minor,Total,,,,,,,
+OVERALL COVERAGE,0,8,2,6,16,,,,,,,
+TISSF,0,2,1,3,6,,,,,,,
+NYSC,0,6,1,3,10,,,,,,,
+GLAS,0,0,0,0,0,,,,,,,
+SMEDAN,0,0,5,0,5,,,,,,,
+,,,,,,,,,,,,
+KEY,,,,,,,,,,,,
+,Completion/Execution coverage =100%,,,,,,,,,,,
+,Completion/Execution coverage < 100%,,,,,,,,,,,
+,"Pass rate ≥ 90%, Exit rate  ≥ 95%",,,,,,,,,,,
+,Fail rate< 90%,,,,,,,,,,,
+No Open Critical/High Defects ,,,,,,,,,,,,
